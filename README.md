@@ -12,9 +12,6 @@ biber
 git
 ```
 
-The compilation was successful with texlive 2016->2025.
-
-
 # Build
 
 ```
